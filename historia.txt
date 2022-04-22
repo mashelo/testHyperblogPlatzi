@@ -35,3 +35,8 @@ Marcelo Vargas nacio en Cochabamba.
    28  git log historia.txt
    29  git show
    30  history >> historia.txt 
+
+
+Este es una nueva modificacion clase 9
+el de arriba son comandos de la clase 8
+
