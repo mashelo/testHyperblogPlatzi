@@ -3,3 +3,5 @@ Esta es la historia de como se
 usa git para guardar sus modificaciones
 
 resvise los comandos.
+
+Marcelo Vargas nacio en Cochabamba.
