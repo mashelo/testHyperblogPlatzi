@@ -37,6 +37,6 @@ Marcelo Vargas nacio en Cochabamba.
    30  history >> historia.txt 
 
 
-Este es una nueva modificacion clase 9
-el de arriba son comandos de la clase 8
+Este es una nueva modificacion clase_9 platzi
+el de arriba son comandos de la clase_8 platzi
 
