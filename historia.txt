@@ -40,3 +40,8 @@ Marcelo Vargas nacio en Cochabamba.
 Este es una nueva modificacion clase_9 platzi
 el de arriba son comandos de la clase_8 platzi
 
+clase_12: se realiza un reset en git 
+        git reset HEAD nombreArchivo  ---> se elimina los cambios de staging
+        git reset  nroDecommit  --hard -->> se regresa al nro de commit eliminando 
+                                            todo staging y los cambios realizados,
+                                            archivos y carpetas
