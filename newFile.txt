@@ -3,3 +3,6 @@ de prueba para revisar los comandos
 git HEAD 
 git reset
 git rm
+
+primera linea de cambio, probando git rm --cached
+  ---->>> 
