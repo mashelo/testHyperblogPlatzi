@@ -1,0 +1,5 @@
+Este es un archivo
+de prueba para revisar los comandos
+git HEAD 
+git reset
+git rm
